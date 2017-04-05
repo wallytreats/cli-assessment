@@ -1,0 +1,7 @@
+
+> cli@1.0.0 test /Users/nicklawrence/Desktop/GALVANIZE/Week1/cli-assessment
+> mocha --reporter min
+
+[2J[1;3H
+  12 passing (7ms)
+
